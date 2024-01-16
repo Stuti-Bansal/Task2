@@ -1,0 +1,8 @@
+#paras p:first-child{
+    background: rgb(220, 220, 115);
+    color: rgb(188, 32, 32);
+}
+#paras p:not(first-child) {
+    background: rgb(62, 62, 215);
+    color: #fff;
+}
